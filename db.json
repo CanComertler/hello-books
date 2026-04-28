@@ -1,0 +1,185 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "author": "George Orwell",
+      "title": "1984",
+      "year": 1949,
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "genre": "Distopya",
+      "summary": "Totaliter bir rejim altında yaşayan Winston Smith, düşüncenin bile suç sayıldığı bir dünyada özgürlüğü arar. Büyük Birader'in gözetimi altında bireysellik yok edilmiştir."
+    },
+    {
+      "id": "2",
+      "author": "Harper Lee",
+      "title": "Bülbülü Öldürmek",
+      "year": 1960,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+      "genre": "Roman",
+      "summary": "Irkçılığın hakim olduğu bir kasabada, bir avukatın adalet mücadelesi küçük bir kızın gözünden anlatılır. Toplumsal önyargılar sert şekilde eleştirilir."
+    },
+    {
+      "id": "3",
+      "author": "J.R.R. Tolkien",
+      "title": "Yüzüklerin Efendisi",
+      "year": 1954,
+      "image": "https://covers.openlibrary.org/b/isbn/9780618640157-L.jpg",
+      "genre": "Fantastik",
+      "summary": "Tek Yüzük'ü yok etmek için tehlikeli bir yolculuğa çıkan Frodo ve arkadaşları, karanlık güçlere karşı Orta Dünya'nın kaderini belirleyecek bir savaşa girer."
+    },
+    {
+      "id": "4",
+      "author": "Fyodor Dostoyevski",
+      "title": "Suç ve Ceza",
+      "year": 1866,
+      "image": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+      "genre": "Klasik",
+      "summary": "Raskolnikov adlı genç bir adamın işlediği cinayet sonrası yaşadığı psikolojik çöküş ve vicdan azabı derin bir şekilde işlenir."
+    },
+    {
+      "id": "5",
+      "author": "Albert Camus",
+      "title": "Yabancı",
+      "year": 1942,
+      "image": "https://covers.openlibrary.org/b/isbn/9780679720201-L.jpg",
+      "genre": "Felsefi",
+      "summary": "Meursault'nun toplumsal normlara kayıtsızlığı ve işlediği bir cinayet sonrası yaşadıkları, varoluşçuluğun temel sorgularını ortaya koyar."
+    },
+    {
+      "id": "6",
+      "author": "Dan Brown",
+      "title": "Da Vinci Şifresi",
+      "year": 2003,
+      "image": "https://ia600100.us.archive.org/view_archive.php?archive=/5/items/l_covers_0012/l_covers_0012_72.zip&file=0012722386-L.jpg",
+      "genre": "Gerilim",
+      "summary": "Bir müze cinayeti sonrası Robert Langdon, gizli semboller ve tarihi sırlarla dolu bir bulmacayı çözmeye çalışır."
+    },
+    {
+      "id": "7",
+      "author": "Paulo Coelho",
+      "title": "Simyacı",
+      "year": 1988,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "genre": "Kişisel Gelişim",
+      "summary": "Çoban Santiago'nun kendi kişisel efsanesini gerçekleştirmek için çıktığı yolculuk, hayallerin peşinden gitmenin önemini anlatır."
+    },
+    {
+      "id": "8",
+      "author": "Orhan Pamuk",
+      "title": "Kırmızı Saçlı Kadın",
+      "year": 2016,
+      "image": "https://www.yapikrediyayinlari.com.tr/dosyalar/2017/03/05185639-7a4e-427c-bec7-85dd2a0cfef3.jpg",
+      "genre": "Roman",
+      "summary": "Bir ustayla çalışan gencin hayatı, gizemli bir kadınla karşılaşmasıyla değişir. Doğu ve Batı mitleri iç içe geçer."
+    },
+    {
+      "id": "9",
+      "author": "Elif Şafak",
+      "title": "Aşk",
+      "year": 2009,
+      "image": "https://covers.openlibrary.org/b/isbn/9780143118527-L.jpg",
+      "genre": "Roman",
+      "summary": "Modern bir kadının hayatı, Mevlana ve Şems'in hikayesiyle kesişir. Aşkın dönüştürücü gücü anlatılır."
+    },
+    {
+      "id": "10",
+      "author": "Sabahattin Ali",
+      "title": "Kürk Mantolu Madonna",
+      "year": 1943,
+      "image": "https://covers.openlibrary.org/b/isbn/9789753638029-L.jpg",
+      "genre": "Klasik",
+      "summary": "Raif Efendi'nin gizli kalmış aşk hikayesi, bir defter aracılığıyla ortaya çıkar. Derin ve hüzünlü bir aşk anlatısıdır."
+    },
+    {
+      "id": "11",
+      "author": "Ahmet Hamdi Tanpınar",
+      "title": "Saatleri Ayarlama Enstitüsü",
+      "year": 1961,
+      "image": "https://covers.openlibrary.org/b/isbn/9789753638036-L.jpg",
+      "genre": "Roman",
+      "summary": "Modernleşme sürecindeki Türkiye, absürt bir kurum üzerinden hicivli bir şekilde ele alınır."
+    },
+    {
+      "id": "12",
+      "author": "Franz Kafka",
+      "title": "Dönüşüm",
+      "year": 1915,
+      "image": "https://covers.openlibrary.org/b/isbn/9780553213690-L.jpg",
+      "genre": "Absürt",
+      "summary": "Gregor Samsa bir sabah böceğe dönüşmüş halde uyanır. Ailesi ve toplumla olan ilişkisi dramatik şekilde değişir."
+    },
+    {
+      "id": "13",
+      "author": "Victor Hugo",
+      "title": "Sefiller",
+      "year": 1862,
+      "image": "https://covers.openlibrary.org/b/isbn/9780451419439-L.jpg",
+      "genre": "Klasik",
+      "summary": "Jean Valjean'ın adalet ve merhamet arasında geçen hayatı, dönemin Fransa'sında toplumsal sorunları gözler önüne serer."
+    },
+    {
+      "id": "14",
+      "author": "Lev Tolstoy",
+      "title": "Savaş ve Barış",
+      "year": 1869,
+      "image": "https://covers.openlibrary.org/b/isbn/9780199232765-L.jpg",
+      "genre": "Tarih",
+      "summary": "Napolyon savaşları sırasında Rus aristokrasisinin hayatı, aşk ve savaş ekseninde anlatılır."
+    },
+    {
+      "id": "15",
+      "author": "Jack London",
+      "title": "Martin Eden",
+      "year": 1909,
+      "image": "https://covers.openlibrary.org/b/isbn/9780140187724-L.jpg",
+      "genre": "Roman",
+      "summary": "Alt sınıftan gelen Martin'in kendini geliştirme ve yazar olma mücadelesi, sınıf farklarını sert şekilde gösterir."
+    },
+    {
+      "id": "16",
+      "author": "George R.R. Martin",
+      "title": "Taht Oyunları",
+      "year": 1996,
+      "image": "https://covers.openlibrary.org/b/isbn/9780553593716-L.jpg",
+      "genre": "Fantastik",
+      "summary": "Krallıklar arasında güç savaşları, ihanet ve entrika dolu bir dünyada taht mücadelesi anlatılır."
+    },
+    {
+      "id": "17",
+      "author": "Stephen King",
+      "title": "O",
+      "year": 1986,
+      "image": "https://covers.openlibrary.org/b/isbn/9781501142970-L.jpg",
+      "genre": "Korku",
+      "summary": "Bir grup çocuk, kasabalarında ortaya çıkan korkunç bir varlıkla yüzleşir. Yıllar sonra tekrar karşılaşırlar."
+    },
+    {
+      "id": "18",
+      "author": "Agatha Christie",
+      "title": "On Küçük Zenci",
+      "year": 1939,
+      "image": "https://covers.openlibrary.org/b/isbn/9780062073488-L.jpg",
+      "genre": "Polisiye",
+      "summary": "Issız bir adaya davet edilen 10 kişi, tek tek öldürülmeye başlanır. Katil içlerinden biridir."
+    },
+    {
+      "id": "19",
+      "author": "J.K. Rowling",
+      "title": "Harry Potter ve Felsefe Taşı",
+      "year": 1997,
+      "image": "https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg",
+      "genre": "Fantastik",
+      "summary": "Harry Potter büyücülük dünyasına adım atar ve Hogwarts'ta ilk yılını geçirirken karanlık bir sırrı keşfeder."
+    },
+    {
+      "id": "20",
+      "author": "Herman Melville",
+      "title": "Moby Dick",
+      "year": 1851,
+      "image": "https://covers.openlibrary.org/b/id/10720365-L.jpg",
+      "genre": "Macera",
+      "summary": "Kaptan Ahab'ın beyaz balina Moby Dick'e karşı takıntılı intikam yolculuğu destansı bir şekilde anlatılır."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
