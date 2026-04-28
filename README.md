@@ -156,7 +156,7 @@ npx json-server db.json --watch --port 3000
 
 ---
 
-## 🧩 Feature Highlight
+
 
 ### 🗑️ Safe Delete System
 - 3-second countdown
