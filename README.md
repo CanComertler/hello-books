@@ -78,7 +78,7 @@ kullanıcı onayı zorunlu
 
 
 
-🇬🇧 English
+## 🇬🇧 English
 📌 About the Project
 
 This is a simple but modern book management application built with React.
