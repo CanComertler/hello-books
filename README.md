@@ -41,13 +41,15 @@ Kullanıcılar kitap ekleyebilir, silebilir, düzenleyebilir ve filtreleyebilir.
 ---
 
 ## 📂 Proje Yapısı
-src/
-├── components
-├── pages
-├── api
-├── layouts
-└── types
 
+```
+src/
+ ├── components
+ ├── pages
+ ├── api
+ ├── layouts
+ └── types
+```
 
 ---
 
@@ -58,80 +60,120 @@ git clone https://github.com/kullanici/books-app
 cd books-app
 npm install
 npm run dev
+```
 
+JSON Server çalıştırma:
+
+```bash
 npx json-server db.json --watch --port 3000
+```
 
+---
 
-🧩 Özellik Detayı
-🗑️ Güvenli Silme Sistemi
-3 saniyelik geri sayım
-yanlışlıkla silmeyi engeller
-kullanıcı onayı zorunlu
+## 🧩 Özellik Detayı
 
+### 🗑️ Güvenli Silme Sistemi
+- 3 saniyelik geri sayım
+- yanlışlıkla silmeyi engeller
+- kullanıcı onayı zorunlu
 
-📈 Geliştirme Fikirleri
-🔥 Dark/Light mode
-🔥 Favori kitap sistemi
-🔥 Backend (Node.js + MongoDB)
-🔥 Auth sistemi (login/register)
+---
 
+## 📈 Geliştirme Fikirleri
 
+- 🔥 Dark/Light mode
+- 🔥 Favori kitap sistemi
+- 🔥 Backend (Node.js + MongoDB)
+- 🔥 Auth sistemi (login/register)
 
+---
 
-## 🇬🇧 English
-📌 About the Project
+---
 
-This is a simple but modern book management application built with React.
+# 🇬🇧 English
+
+## 📌 About the Project
+
+This is a simple but modern book management application built with React.  
 Users can add, delete, edit, and filter books.
 
-🚀 Features
-📖 Book listing
-➕ Add new books
-🗑️ Safe delete with countdown
-✏️ Edit books
-🔎 Search system (title & author)
-🎯 Genre filtering
-📅 Year filtering
-🖼️ Book cover images
-📱 Responsive design
-🧠 Tech Stack
-Technology	Description
-React ⚛️	UI library
-TypeScript 🟦	Type safety
-React Router 🚏	Routing
-Axios 🌐	API requests
-JSON Server 🗄️	Fake backend
-TailwindCSS 🎨	Styling
-📂 Project Structure
+---
+
+## 🚀 Features
+
+- 📖 Book listing
+- ➕ Add new books
+- 🗑️ Safe delete with countdown
+- ✏️ Edit books
+- 🔎 Search system (title & author)
+- 🎯 Genre filtering
+- 📅 Year filtering
+- 🖼️ Book cover images
+- 📱 Responsive design
+
+---
+
+## 🧠 Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| React ⚛️ | UI library |
+| TypeScript 🟦 | Type safety |
+| React Router 🚏 | Routing |
+| Axios 🌐 | API requests |
+| JSON Server 🗄️ | Fake backend |
+| TailwindCSS 🎨 | Styling |
+
+---
+
+## 📂 Project Structure
+
+```
 src/
  ├── components
  ├── pages
  ├── api
  ├── layouts
  └── types
-⚙️ Installation
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
 git clone https://github.com/username/books-app
 cd books-app
 npm install
 npm run dev
+```
 
 Run JSON server:
 
+```bash
 npx json-server db.json --watch --port 3000
-🧩 Feature Highlight
-🗑️ Safe Delete System
-3-second countdown
-prevents accidental deletion
-requires user confirmation
-📈 Future Improvements
-🔥 Dark / Light mode
-🔥 Favorite books system
-🔥 Backend with Node.js + MongoDB
-🔥 Authentication system
-⭐ License
+```
+
+---
+
+## 🧩 Feature Highlight
+
+### 🗑️ Safe Delete System
+- 3-second countdown
+- prevents accidental deletion
+- requires user confirmation
+
+---
+
+## 📈 Future Improvements
+
+- 🔥 Dark / Light mode
+- 🔥 Favorite books system
+- 🔥 Backend with Node.js + MongoDB
+- 🔥 Authentication system
+
+---
+
+## ⭐ License
 
 This project is for educational purposes.
-
-
-
-
